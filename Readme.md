@@ -9,7 +9,7 @@ POST /user/register
 
 ### Respone
 #### add user
-![Response](https://img.shields.io/badge/Created-201-brightgreen)
+![Response](https://img.shields.io/badge/Created-200-brightgreen)
 ```bash
 {
     "status": "success",
@@ -44,7 +44,7 @@ POST /user/register
 
 ### Respone
 #### add user
-![Response](https://img.shields.io/badge/Created-201-brightgreen)
+![Response](https://img.shields.io/badge/Created-200-brightgreen)
 ```bash
 {
     "status": "success",
